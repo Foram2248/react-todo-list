@@ -20,4 +20,4 @@ A simple Todo List application built with React and TypeScript. This app allows 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Foram2248/react-todo-list.git
